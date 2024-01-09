@@ -68,8 +68,14 @@ body {
     line-height: normal;
     /* margin: 970px 595px 6307px 595px; */
 }
-.image{
-    background-image: url(../resources/New\ Year\ Photo.png);
-    background-position: bottom center;
-    background-repeat: no-repeat;
+
+
+.about{
+  display:block
+   
 }
+.about-info-container{
+    justify-content: space-around;
+}
+
+
