@@ -6,29 +6,70 @@ body {
 
 
 
-.text{
+.text {
     background-image: url(../resources/Banner\ Image.png);
     background-repeat: no-repeat;
-    background-size: 100%;
-    
-    
+    background-position: center top;
+
 }
+
+
 .text .main {
     color: white;
     text-align: center;
     font-size: 72px;
     font-weight: 900;
-    padding: 0px 50px 10px 50px;
-   
-
 }
+
+/* padding: 0px 50px 10px 50px; */
+/* margin: auto; */
+
+
+
+
+
 
 .text .greeting {
     color: white;
     text-align: center;
     font-size: 32px;
     font-weight: 400;
-    padding: 100px 50px 10px 50px;
-    
-   
+    /* padding: 100px 50px 10px 50px; */
+    /* margin: auto; */
+
+}
+
+/* about selection styles */
+
+.section-title {
+    color: #F00;
+    text-align: center;
+    font-size: 68px;
+    font-weight: 500;
+    line-height: normal;
+    /* margin: 770px 609px 6458px 608px; */
+
+}
+
+.section-description {
+    color: #F00;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: normal;
+    /* margin: 925px 601px 6381px 602px; */
+}
+
+.section-description2 {
+    color: #070211;
+    text-align: center;
+    font-size: 38px;
+    font-weight: 500;
+    line-height: normal;
+    /* margin: 970px 595px 6307px 595px; */
+}
+.image{
+    background-image: url(../resources/New\ Year\ Photo.png);
+    background-position: bottom center;
+    background-repeat: no-repeat;
 }
