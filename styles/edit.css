@@ -8,9 +8,14 @@ body {
 
 .text {
     background-image: url(../resources/Banner\ Image.png);
+    background-size: contain;
     background-repeat: no-repeat;
     background-position: center top;
 
+
+}
+.btn{
+    text-align: center;
 }
 
 
@@ -75,6 +80,7 @@ body {
    
 }
 .about-info-container{
+    display: flex;
     justify-content: space-around;
 }
 
